@@ -14,10 +14,10 @@ To analyze vendor performance and procurement activities, evaluate supplier effi
 - Applied data visualization techniques to identify high-performing vendors, purchasing patterns, and sourcing opportunities.
 
 ## Data Model
-  ![image alt](https://github.com/Fadekemi-Adeniran/HR-Overtime-Analytics-Dashboard/blob/211d88b38120879f2b9f45fed5d0345ae94cc599/HR%20Overtime%20Data%20Model.jpg)
+  ![image alt](https://github.com/Fadekemi-Adeniran/Vendor-Performance-Analytics-Dashboard/blob/b1e18518f9e186ba15f1f1e05d5bd8ad6915aae1/Vendor%20analytics%20Data%20Model.jpg)
   
 ## Dashboard Preview
-  ![image alt](https://github.com/Fadekemi-Adeniran/HR-Overtime-Analytics-Dashboard/blob/211d88b38120879f2b9f45fed5d0345ae94cc599/HR%20Overtime%20Analytics.jpg)
+  ![image alt](https://github.com/Fadekemi-Adeniran/Vendor-Performance-Analytics-Dashboard/blob/b1e18518f9e186ba15f1f1e05d5bd8ad6915aae1/Vendor%20Analytics%20.jpg)
 
 ## Key Insights
 From the dashboard:
